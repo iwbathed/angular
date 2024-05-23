@@ -1,0 +1,17 @@
+/* You can add global styles to this file, and also import other style files */
+/* *{
+    color:white;
+    background-color: black;
+    border-width: 0;
+
+} */
+
+.dark-class { 
+    background-color: black;
+    color: white;
+
+}
+.white-class { 
+        background-color: white;
+        color: black;
+    }
